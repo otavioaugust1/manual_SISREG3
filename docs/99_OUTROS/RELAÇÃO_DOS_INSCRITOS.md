@@ -6,7 +6,7 @@ parent: "Outros"
 ---
 
 ## INFORMAÇÕES:
-As capacitações realizadas pelo [Ministério da Saúde](/docs/99_OUTROS/Ministerio_da_Saúde/), têm como público alvo as Centrais de Regulação que regulam sua rede de serviços de saúde, executando procedimentos para o próprio município e/ou para outros municípios pactuados. As capacitações abrangem os módulos (Ambulatorial e Hospitalar), percorrendo todos os perfis: solicitante, executante, coordenador, regulador, administrador e videofonista. As centrais que apenas solicitam procedimentos para a central executante, devem ter sua capacitação realizada pela mesma. 
+As capacitações realizadas pelo [Ministério da Saúde]({{ '/docs/99_OUTROS/Ministerio_da_Saúde/' | relative_url }}), têm como público alvo as Centrais de Regulação que regulam sua rede de serviços de saúde, executando procedimentos para o próprio município e/ou para outros municípios pactuados. As capacitações abrangem os módulos (Ambulatorial e Hospitalar), percorrendo todos os perfis: solicitante, executante, coordenador, regulador, administrador e videofonista. As centrais que apenas solicitam procedimentos para a central executante, devem ter sua capacitação realizada pela mesma. 
 
 Para inscrição na capacitação, os técnicos das Centrais de Regulação devem manifestar no neste link **<u>[INSCRIÇÃO PARA CAPACITAÇÃO](http://formsus.datasus.gov.br/site/formulario.php?id_aplicacao=29953)</u>**
 

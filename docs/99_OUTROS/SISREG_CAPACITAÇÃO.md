@@ -5,11 +5,11 @@ nav_order: 10
 parent: "Outros"
 ---
 
-As capacitações realizadas pelo [Ministério da Saúde](/docs/99_OUTROS/Ministerio_da_Saúde/), têm como público alvo as Centrais de Regulação que regulam sua rede de serviços de saúde, executando procedimentos para o próprio município e/ou para outros municípios pactuados. As capacitações abrangem os módulos (Ambulatorial e Hospitalar), percorrendo todos os perfis: solicitante, executante, coordenador, regulador, administrador e videofonista. As centrais que apenas solicitam procedimentos para a central executante, devem ter sua capacitação realizada pela mesma. 
+As capacitações realizadas pelo [Ministério da Saúde]({{ '/docs/99_OUTROS/Ministerio_da_Saúde/' | relative_url }}), têm como público alvo as Centrais de Regulação que regulam sua rede de serviços de saúde, executando procedimentos para o próprio município e/ou para outros municípios pactuados. As capacitações abrangem os módulos (Ambulatorial e Hospitalar), percorrendo todos os perfis: solicitante, executante, coordenador, regulador, administrador e videofonista. As centrais que apenas solicitam procedimentos para a central executante, devem ter sua capacitação realizada pela mesma. 
 
 A inscrição para a capacitação deve ser acessada por meio do link **[INSCRIÇÃO PARA CAPACITAÇÃO](http://formsus.datasus.gov.br/site/formulario.php?id_aplicacao=29953)**
 
-<img src="/images/Voltar.png" width="50" alt="Voltar.png" />[RELAÇÃO DOS INSCRITOS](/docs/99_OUTROS/RELAÇÃO_DOS_INSCRITOS/)
+<img src="{{ '/images/Voltar.png' | relative_url }}" width="50" alt="Voltar.png" />[RELAÇÃO DOS INSCRITOS]({{ '/docs/99_OUTROS/RELAÇÃO_DOS_INSCRITOS/' | relative_url }})
 
 ## INTRODUÇÃO
 **1.**	A capacitação na ferramenta informatizada SISREG é disponibilizada pelo Ministério da Saúde, com vistas a operacionalização das Centrais de Regulação, com o objetivo de promover o conhecimento técnico da ferramenta aos profissionais que atuam nas referidas centrais. Essa capacitação ocorre, geralmente, em Brasília e ministrada pelos técnicos da Coordenação Geral de Regulação e Avaliação (CGRA). 

@@ -6,7 +6,7 @@ parent: "Outros"
 ---
 
 ## Introdução
-![informações no Site: https://sisregiii.saude.gov.br/](/images/logo-sisreg.png)
+![informações no Site: https://sisregiii.saude.gov.br/]({{ '/images/logo-sisreg.png' | relative_url }})
 O Guia Eletrônico do Sistema de Regulação (SISREG III) foi desenvolvido com o objetivo de qualificar e apoiar os profissionais de saúde das Centrais de Regulação que utilizam essa ferramenta para implementar ações de regulação no seu território. 
 
 ### Descrição
@@ -87,9 +87,9 @@ O módulo hospitalar tem por objetivo regular os leitos hospitalares dos estabel
 
 ## Perfil
 --------
-[**Administrador Estadual**](/docs/01_ADMINISTRADOR/Administrador_Estadual/) - Esse perfil habilita o operador do SISREG a realizar a configuração entre os municípios executantes e solicitantes, de acordo com as pactuações, bem como inserir avisos na tela principal e alterar a senha para perfis administradores estadual e municipal. Também possui acesso a alguns tipos de relatório.  
+[**Administrador Estadual**]({{ '/docs/01_ADMINISTRADOR/Administrador_Estadual/' | relative_url }}) - Esse perfil habilita o operador do SISREG a realizar a configuração entre os municípios executantes e solicitantes, de acordo com as pactuações, bem como inserir avisos na tela principal e alterar a senha para perfis administradores estadual e municipal. Também possui acesso a alguns tipos de relatório.  
 --------
-[**Administrador Municipal**](/docs/01_ADMINISTRADOR/Administrador_Municipal/) - O administrador municipal é o operador da central de regulação que realiza configurações no sistema, tais como:  
+[**Administrador Municipal**]({{ '/docs/01_ADMINISTRADOR/Administrador_Municipal/' | relative_url }}) - O administrador municipal é o operador da central de regulação que realiza configurações no sistema, tais como:  
 * Cadastrar todos os operadores do sistema; 
 * Importar os dados das unidades de saúde do CNES; 
 * Definir o tipo de unidade como: solicitante, executante e ambas; 
@@ -97,7 +97,7 @@ O módulo hospitalar tem por objetivo regular os leitos hospitalares dos estabel
 * Configurar os procedimentos; e 
 * Definir os tetos, cotas, dentre outras funcionalidades. 
 --------
-[**Coordenador de Unidade**](/docs/03_COORDENADOR_DE_UNIDADE/Coordenador_de_Unidade/) - O perfil Coordenador de Unidade Ambulatorial é configurado pelo administrador municipal, tendo como principais atribuições:  
+[**Coordenador de Unidade**]({{ '/docs/03_COORDENADOR_DE_UNIDADE/Coordenador_de_Unidade/' | relative_url }}) - O perfil Coordenador de Unidade Ambulatorial é configurado pelo administrador municipal, tendo como principais atribuições:  
 * Cadastrar novos operadores para a unidade à qual está vinculado;  
 * Configurar escalas de seus profissionais; 
 * Informar no sistema os preparos para o procedimento que deverá ser realizado pelo paciente;  
@@ -105,14 +105,14 @@ O módulo hospitalar tem por objetivo regular os leitos hospitalares dos estabel
 * Realizar a gestão da fila da regulação, e 
 * Manutenção do Boletim de Produção Ambulatorial (BPA) na unidade executante.  
 ---------
-[**Solicitante**](/docs/04_SOLICITANTE/Solicitante/) - Esse perfil permite ao operador efetuar as seguintes ações: 
+[**Solicitante**]({{ '/docs/04_SOLICITANTE/Solicitante/' | relative_url }}) - Esse perfil permite ao operador efetuar as seguintes ações: 
 * Solicitar a realização de procedimentos ambulatoriais e/ou hospitalares, conforme configuração pré-estabelecida pelo perfil administrador municipal; 
 * Cancelar solicitações de procedimentos ambulatoriais e/ou hospitalares, se houver devolução pelo perfil regulador;  
 * Realizar consultas das solicitações de procedimentos ambulatoriais ou hospitalares; 
 * Realizar agendamentos de procedimentos ambulatoriais, de acordo com as cotas pré-estabelecidas; e 
 * Realizar consultas das solicitações pendentes na regulação, pendentes na fila de espera, devolvidos pelo regulador e reenviar a solicitação devolvida para a regulação, dentre outras atividades. 
 --------
-[**Regulador/Autorizador**](/docs/02_REGULADOR_AUTORIZADOR/Regulador_Autorizador/) - O perfil regulador/autorizador tem como atribuições:  
+[**Regulador/Autorizador**]({{ '/docs/02_REGULADOR_AUTORIZADOR/Regulador_Autorizador/' | relative_url }}) - O perfil regulador/autorizador tem como atribuições:  
 * Autorizar, negar, devolver as solicitações de procedimentos ambulatoriais e/ou hospitalares, em conformidade com os protocolos clínicos e de regulação<s>,</s> adotados localmente; 
 * Realizar a reserva do leito;  
 * Verificar as evidências clínicas das solicitações e o cumprimento dos protocolos de regulação, por meio da análise de laudo médico; 
@@ -120,43 +120,43 @@ O módulo hospitalar tem por objetivo regular os leitos hospitalares dos estabel
 * Avaliar e autorizar as solicitações de alteração de procedimentos já autorizados e a solicitação de procedimentos especiais nas internações; e 
 * Orientar e avaliar o preenchimento dos laudos médicos. 
 --------
-[**Executante**](/docs/05_EXECUTANTE/Executante/) - Esse perfil permite que o operador realize as seguintes funções: 
+[**Executante**]({{ '/docs/05_EXECUTANTE/Executante/' | relative_url }}) - Esse perfil permite que o operador realize as seguintes funções: 
 * Confirmar a execução dos procedimentos ambulatoriais ou o absenteísmo (falta) do paciente em sua unidade; 
 * Inserir os preparos para a realização dos procedimentos; e 
 * Gerar o Boletim de Produção Ambulatorial (BPA). 
 ----------
-[**Executante Int**](/docs/06_EXECUTANTE_INT/Executante_Int/) - Esse perfil permite ao operador executar as seguintes ações: 
+[**Executante Int**]({{ '/docs/06_EXECUTANTE_INT/Executante_Int/' | relative_url }}) - Esse perfil permite ao operador executar as seguintes ações: 
 * Admitir a internação do paciente no sistema;  
 * Realizar as transferências de leitos; 
 * Registrar alta; e  
 * Solicitar mudanças de procedimentos no módulo hospitalar. 
 ----------
-[**Auditor**](/docs/07_AUDITOR/Auditor/) - O perfil Auditor tem as seguintes funções:  
+[**Auditor**]({{ '/docs/07_AUDITOR/Auditor/' | relative_url }}) - O perfil Auditor tem as seguintes funções:  
 * Verificar a Autorização de Internação Hospitalar (AIH) autorizada; e 
 * Realizar consultas de solicitações ambulatoriais e hospitalares pendentes, entre outras. 
 --------
-[**Videofonista**](/docs/08_VIDEOFONISTA/Videofonista/) - A função desse perfil é registrar a solicitação em nome de uma unidade sem conectividade direta com o SISREG, momentaneamente, ou que não disponha de acesso à web. 
+[**Videofonista**]({{ '/docs/08_VIDEOFONISTA/Videofonista/' | relative_url }}) - A função desse perfil é registrar a solicitação em nome de uma unidade sem conectividade direta com o SISREG, momentaneamente, ou que não disponha de acesso à web. 
 ---------
 
 ## Atualizações
-<img src="/images/Library.png" width="30" alt="Library.png" />[Atualizações do SISREG](/docs/99_OUTROS/ATUALIZAÇÃO_DO_SISREG/)
+<img src="{{ '/images/Library.png' | relative_url }}" width="30" alt="Library.png" />[Atualizações do SISREG]({{ '/docs/99_OUTROS/ATUALIZAÇÃO_DO_SISREG/' | relative_url }})
 
-<img src="/images/Library.png" width="30" alt="Library.png" />[Relação de municípios e centrais que utilizam o SISREG](/docs/99_OUTROS/CENTRAIS_SISREG/)
+<img src="{{ '/images/Library.png' | relative_url }}" width="30" alt="Library.png" />[Relação de municípios e centrais que utilizam o SISREG]({{ '/docs/99_OUTROS/CENTRAIS_SISREG/' | relative_url }})
 
-<img src="/images/Library.png" width="30" alt="Library.png" /> [https://saudegov-my.sharepoint.com/personal/otavio_santos_saude_gov_br/_layouts/15/onedrive.aspx?id=%2Fpersonal%2Fotavio%5Fsantos%5Fsaude%5Fgov%5Fbr%2FDocuments%2FATUALIZA%C3%87%C3%83O%20SISREG%2FNOTA%5FINFORMATIVA%5FN%5F%5F5%5F2023%5FCGRA%5FDRAC%5FSAES%5FMS%2Epdf&parent=%2Fpersonal%2Fotavio%5Fsantos%5Fsaude%5Fgov%5Fbr%2FDocuments%2FATUALIZA%C3%87%C3%83O%20SISREG&ga=1 Higienização de operadores no Banco de dados (arquivo)]
+<img src="{{ '/images/Library.png' | relative_url }}" width="30" alt="Library.png" /> [https://saudegov-my.sharepoint.com/personal/otavio_santos_saude_gov_br/_layouts/15/onedrive.aspx?id=%2Fpersonal%2Fotavio%5Fsantos%5Fsaude%5Fgov%5Fbr%2FDocuments%2FATUALIZA%C3%87%C3%83O%20SISREG%2FNOTA%5FINFORMATIVA%5FN%5F%5F5%5F2023%5FCGRA%5FDRAC%5FSAES%5FMS%2Epdf&parent=%2Fpersonal%2Fotavio%5Fsantos%5Fsaude%5Fgov%5Fbr%2FDocuments%2FATUALIZA%C3%87%C3%83O%20SISREG&ga=1 Higienização de operadores no Banco de dados (arquivo)]
 
-<img src="/images/Library.png" width="30" alt="Library.png" /> [Termo de uso SISREG](/docs/10_LGPD/Termo_de_uso_SISREG/)
+<img src="{{ '/images/Library.png' | relative_url }}" width="30" alt="Library.png" /> [Termo de uso SISREG]({{ '/docs/10_LGPD/Termo_de_uso_SISREG/' | relative_url }})
 
 ## Acesso a API- Application Programming Interface
 A disponibilização da ferramenta API (sigla em inglês para Application Programming Interface, ou Interface de Programação de Aplicações em português) é uma iniciativa do DATASUS da Secretaria de Saúde Digital, em parceria com o Departamento de Regulação Assistencial e Controle, ambos do Ministério da Saúde (MS). Para obter mais informações, [https://servicos-datasus.saude.gov.br/detalhe/jDCFmnHyYQ**acesse aqui**]
 
 ## Dúvidas Frequentes
-<img src="/images/Question-mark.png" width="30" alt="Question-mark.png" /> [Solicitação de credencial do BI-SISREG](/docs/99_OUTROS/SOLICITAÇÃO_DE_ACESSO_AO_BI-SISREG/)
+<img src="{{ '/images/Question-mark.png' | relative_url }}" width="30" alt="Question-mark.png" /> [Solicitação de credencial do BI-SISREG]({{ '/docs/99_OUTROS/SOLICITAÇÃO_DE_ACESSO_AO_BI-SISREG/' | relative_url }})
 
-<img src="/images/Question-mark.png" width="30" alt="Question-mark.png" /> [Informações para solicitar novos procedimentos no SISREG](/docs/99_OUTROS/IMPORTAÇÃO_DE_NOVOS_PROCEDIMENTOS_NO_SISREG/)
+<img src="{{ '/images/Question-mark.png' | relative_url }}" width="30" alt="Question-mark.png" /> [Informações para solicitar novos procedimentos no SISREG]({{ '/docs/99_OUTROS/IMPORTAÇÃO_DE_NOVOS_PROCEDIMENTOS_NO_SISREG/' | relative_url }})
 
-<img src="/images/Question-mark.png" width="30" alt="Question-mark.png" /> [Erro de carregamento de página no SISREG](/docs/09_ERROS/SISREG_NÃO_ESTA_CARREGANDO_A_PAGINA_(ERRO_NO_COOKIES)/)
+<img src="{{ '/images/Question-mark.png' | relative_url }}" width="30" alt="Question-mark.png" /> [Erro de carregamento de página no SISREG]({{ '/docs/09_ERROS/SISREG_NÃO_ESTA_CARREGANDO_A_PAGINA_(ERRO_NO_COOKIES' | relative_url }})/)
 
-<img src="/images/Question-mark.png" width="30" alt="Question-mark.png" /> [Legislação](/docs/99_OUTROS/GUIA_DE_PORTARIA,_DECRETO_E_LEI_PARA_CENTRAIS/)
+<img src="{{ '/images/Question-mark.png' | relative_url }}" width="30" alt="Question-mark.png" /> [Legislação]({{ '/docs/99_OUTROS/GUIA_DE_PORTARIA,_DECRETO_E_LEI_PARA_CENTRAIS/' | relative_url }})
 
-<img src="/images/Question-mark.png" width="30" alt="Question-mark.png" /> [Simulação e envio de arquivo com o erro encontrado no SISREG](/docs/09_ERROS/CRIAR_ROTEIRO_ERRO_PASSO-A-PASSO/)
+<img src="{{ '/images/Question-mark.png' | relative_url }}" width="30" alt="Question-mark.png" /> [Simulação e envio de arquivo com o erro encontrado no SISREG]({{ '/docs/09_ERROS/CRIAR_ROTEIRO_ERRO_PASSO-A-PASSO/' | relative_url }})

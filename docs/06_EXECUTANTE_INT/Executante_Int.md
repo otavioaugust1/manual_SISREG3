@@ -16,12 +16,12 @@ Esse perfil permite ao operador executar as seguintes ações: 
 ·        Solicitar mudanças de procedimentos no módulo hospitalar. 
 
 ## CADASTRO
-<img src="/images/Gear-icon.png" width="40" alt="Gear-icon.png" />PREPAROS
+<img src="{{ '/images/Gear-icon.png' | relative_url }}" width="40" alt="Gear-icon.png" />PREPAROS
 
 
 ## TROCA DE SENHA
-<img src="/images/Task.png" width="40" alt="Task.png" />TROCA DE SENHA
+<img src="{{ '/images/Task.png' | relative_url }}" width="40" alt="Task.png" />TROCA DE SENHA
 
 
 ## OUTROS PERFIS
-[Administrador Estadual](/docs/01_ADMINISTRADOR/Administrador_Estadual/) | [Administrador Municipal](/docs/01_ADMINISTRADOR/Administrador_Municipal/) | [Solicitante](/docs/04_SOLICITANTE/Solicitante/) | [Regulador/Autorizador](/docs/02_REGULADOR_AUTORIZADOR/Regulador_Autorizador/) | [Executante](/docs/05_EXECUTANTE/Executante/) | [Executante Int](/docs/06_EXECUTANTE_INT/Executante_Int/) | [Coordenador de Unidade](/docs/03_COORDENADOR_DE_UNIDADE/Coordenador_de_Unidade/) | [Videofonista](/docs/08_VIDEOFONISTA/Videofonista/)
+[Administrador Estadual]({{ '/docs/01_ADMINISTRADOR/Administrador_Estadual/' | relative_url }}) | [Administrador Municipal]({{ '/docs/01_ADMINISTRADOR/Administrador_Municipal/' | relative_url }}) | [Solicitante]({{ '/docs/04_SOLICITANTE/Solicitante/' | relative_url }}) | [Regulador/Autorizador]({{ '/docs/02_REGULADOR_AUTORIZADOR/Regulador_Autorizador/' | relative_url }}) | [Executante]({{ '/docs/05_EXECUTANTE/Executante/' | relative_url }}) | [Executante Int]({{ '/docs/06_EXECUTANTE_INT/Executante_Int/' | relative_url }}) | [Coordenador de Unidade]({{ '/docs/03_COORDENADOR_DE_UNIDADE/Coordenador_de_Unidade/' | relative_url }}) | [Videofonista]({{ '/docs/08_VIDEOFONISTA/Videofonista/' | relative_url }})

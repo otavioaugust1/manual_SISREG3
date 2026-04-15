@@ -6,7 +6,7 @@ parent: "Outros"
 ---
 
 ## ATUALIZAÇÃO SISREG III – 15 de junho de 2020
-<img src="/images/Voltar.png" width="30" alt="Voltar.png" />**MANUTENÇÃO EVOLUTIVA - MÓDULO AMB/HOSP - ALTERAÇÃO DA FUNCIONALIDADE MUDANÇA DE SENHA - REGISTRO DE CPF DOS OPERADORES**
+<img src="{{ '/images/Voltar.png' | relative_url }}" width="30" alt="Voltar.png" />**MANUTENÇÃO EVOLUTIVA - MÓDULO AMB/HOSP - ALTERAÇÃO DA FUNCIONALIDADE MUDANÇA DE SENHA - REGISTRO DE CPF DOS OPERADORES**
 
 FUNÇÃO: ALTERAÇÃO DE SENHA / MUDANÇA DE SENHA
 
@@ -15,7 +15,7 @@ Desenvolvida manutenção evolutiva, para a funcionalidade "MUDANÇA DE SENHA" p
 Para a MUDANÇA DE SENHA o operador deverá entrar na página principal do sistema em PERFIL onde será direcionado para a Tela de ALTERAÇÃO DE SENHA. O operador deverá inserir os dados válidos, conforme solicitado: LOGIN DO OPERADOR, NOME, CPF, E-MAIL, TELEFONE, além de concordar com os TERMOS DE USO DO SISREG. Todas as
 
 ## ATUALIZAÇÃO SISREG III – 15 de junho de 2020
-<img src="/images/Voltar.png" width="30" alt="Voltar.png" />**MANUTENÇÃO EVOLUTIVA - MÓDULO AMB/HOSP - ALTERAÇÃO DA FUNCIONALIDADE MUDANÇA DE SENHA - REGISTRO DE CPF DOS OPERADORES**
+<img src="{{ '/images/Voltar.png' | relative_url }}" width="30" alt="Voltar.png" />**MANUTENÇÃO EVOLUTIVA - MÓDULO AMB/HOSP - ALTERAÇÃO DA FUNCIONALIDADE MUDANÇA DE SENHA - REGISTRO DE CPF DOS OPERADORES**
 
 FUNÇÃO: ALTERAÇÃO DE SENHA / MUDANÇA DE SENHA
 
@@ -25,11 +25,11 @@ Para a MUDANÇA DE SENHA o operador deverá entrar na página principal do siste
 
   
 
-<img src="/images/Voltar.png" width="30" alt="Voltar.png" />**MANUTENÇÃO EVOLUTIVA - EXPORTADOR ARQUIVO - MODULO AMB/HOP - ALTERAÇÃO INDEVIDA DE ACESSO - PERFIL ADMINISTRADOR ALTERANDO INFORMAÇÕES DE ACESSO NÃO AUTORIZADO**
+<img src="{{ '/images/Voltar.png' | relative_url }}" width="30" alt="Voltar.png" />**MANUTENÇÃO EVOLUTIVA - EXPORTADOR ARQUIVO - MODULO AMB/HOP - ALTERAÇÃO INDEVIDA DE ACESSO - PERFIL ADMINISTRADOR ALTERANDO INFORMAÇÕES DE ACESSO NÃO AUTORIZADO**
 
 Desenvolvida manutenção evolutiva para exportar relatório do banco do SISREG do perfil ADMINISTRADOR ESTADUAL; onde foi identificado alteração indevida na senha de um Perfil Administrador MUNICIPAL de estado diferente.
 
-<img src="/images/Voltar.png" width="30" alt="Voltar.png" />**MANUTENÇÃO EVOLUTIVA - MÓDULO AMBULATORIAL E HOSPITALAR - HISTÓRICO DA EXCLUSÃO DE OPERADORES DAS CENTRAIS DE REGULAÇÃO**
+<img src="{{ '/images/Voltar.png' | relative_url }}" width="30" alt="Voltar.png" />**MANUTENÇÃO EVOLUTIVA - MÓDULO AMBULATORIAL E HOSPITALAR - HISTÓRICO DA EXCLUSÃO DE OPERADORES DAS CENTRAIS DE REGULAÇÃO**
 
 FUNÇÃO: CONSULTA GERAL\>OPERADOR
 
@@ -38,7 +38,7 @@ Desenvolvimento no sistema SISREG perfil Administrador, no modulo ambulatorial e
  
 
 
-<img src="/images/Voltar.png" width="30" alt="Voltar.png" />**MANUTENÇÃO CORRETIVA - MODULO AMBULATORIAL - FUNCIONALIDADE CONSULTA GERAL SIGTAP - ERRO DE CARACTERES**
+<img src="{{ '/images/Voltar.png' | relative_url }}" width="30" alt="Voltar.png" />**MANUTENÇÃO CORRETIVA - MODULO AMBULATORIAL - FUNCIONALIDADE CONSULTA GERAL SIGTAP - ERRO DE CARACTERES**
 
 FUNÇÃO: CONSULTA GERAL\>TABELA SIGTAP
 
@@ -48,23 +48,23 @@ Desenvolvida manutenção corretiva no sistema SISREG no módulo ambulatorial na
  
 
 ## ATUALIZAÇÃO SISREG III – 05 de maio de 2020
-<img src="/images/Voltar.png" width="30" alt="Voltar.png" />**MANUTENÇÃO CORRETIVA - MODULO AMB/HOP – ATUALIZAÇÃO DE UNIDADE DE SAUDE NO SISREG – CNES**
+<img src="{{ '/images/Voltar.png' | relative_url }}" width="30" alt="Voltar.png" />**MANUTENÇÃO CORRETIVA - MODULO AMB/HOP – ATUALIZAÇÃO DE UNIDADE DE SAUDE NO SISREG – CNES**
 
 FUNÇÃO: CADASTRO GERAL\> UNIDADES
 
 Desenvolvida manutenção corretiva na funcionalidade CADASTRO GERAL\>UNIDADE do perfil ADMINISTRADOR MUNICIPAL;
 
-<img src="/images/Voltar.png" width="30" alt="Voltar.png" />**MANUTENÇÃO CORRETIVA - MODULO AMBULATORIAL - SOLICITAÇÃO TRAVADA NO SISREG - STATUS NÃO DEFINIDO**
+<img src="{{ '/images/Voltar.png' | relative_url }}" width="30" alt="Voltar.png" />**MANUTENÇÃO CORRETIVA - MODULO AMBULATORIAL - SOLICITAÇÃO TRAVADA NO SISREG - STATUS NÃO DEFINIDO**
 
 FUNÇÃO: CONSULTA AMB\>SOLICITAÇÃO
 
 Desenvolvida manutenção corretiva no sistema SISREG no módulo ambulatorial, solicitação travada, que se encontra com situação "NÃO DEFINIDO", impossibilitando o cancelamento ou qualquer outra ação no sistema.
 
-<img src="/images/Voltar.png" width="30" alt="Voltar.png" />**MANUTENÇÃO CORRETIVA - MODULO AMB/HOP - ALTERAÇÃO INDEVIDA DE ACESSO - PERFIL ADMINISTRADOR ALTERANDO INFORMAÇÕES DE ACESSO DE OUTRA CENTRAL**
+<img src="{{ '/images/Voltar.png' | relative_url }}" width="30" alt="Voltar.png" />**MANUTENÇÃO CORRETIVA - MODULO AMB/HOP - ALTERAÇÃO INDEVIDA DE ACESSO - PERFIL ADMINISTRADOR ALTERANDO INFORMAÇÕES DE ACESSO DE OUTRA CENTRAL**
 
 Desenvolvida manutenção corretiva na funcionalidade CADASTRO GERAL\>OPERADOR do perfil ADMINISTRADOR MUNICIPAL; onde tinha sido identificada alteração indevida da senha de um Perfil REGULADOR/AUTORIZADOR de outra Central de Regulação pelo Administrador, no mesmo estado.
 
-<img src="/images/Voltar.png" width="30" alt="Voltar.png" />**MANUTENÇÃO CORRETIVA - MODULO AMBULATORIAL - CADASTRO DE PROCEDIMENTO - DESCRIÇÃO DE PROCEDIMENTO - CAMPO VAZIO - PERFIL FEDERAL**
+<img src="{{ '/images/Voltar.png' | relative_url }}" width="30" alt="Voltar.png" />**MANUTENÇÃO CORRETIVA - MODULO AMBULATORIAL - CADASTRO DE PROCEDIMENTO - DESCRIÇÃO DE PROCEDIMENTO - CAMPO VAZIO - PERFIL FEDERAL**
 
 FUNÇÃO: CADASTRO DE PROCEDIMENTO (FEDERAL)
 
@@ -72,22 +72,22 @@ Correção no módulo ambulatorial, na funcionalidade de CADASTRO\>PROCEDIMENTOS
 
 
 ## ATUALIZAÇÃO SISREG III – 15 de junho de 2019
-<img src="/images/Voltar.png" width="30" alt="Voltar.png" />**MANUTENÇÃO CORRETIVA - MODULO AMB/HOSP - IDENTIFICAÇÃO DE OPERADORES DO PERFIL ESTADUAL**
+<img src="{{ '/images/Voltar.png' | relative_url }}" width="30" alt="Voltar.png" />**MANUTENÇÃO CORRETIVA - MODULO AMB/HOSP - IDENTIFICAÇÃO DE OPERADORES DO PERFIL ESTADUAL**
 
 Desenvolver manutenção corretiva no sistema SISREG nos módulos permitindo identificar o operador que utiliza o perfil ADMINISTRADOR ESTADUAL; apresenta erro quando um operador do perfil ADMINISTRADOR ESTADUAL realiza cadastro de outro operador no mesmo nível;
 
 ## ATUALIZAÇÃO SISREG III – 29 de julho de 2019
-<img src="/images/Voltar.png" width="30" alt="Voltar.png" />**MANUTENÇÃO CORRETIVA - MODULO AMBULATORIAL - SOLICITAÇÃO TRAVADA NA FILA DA REGULAÇÃO - FILA DA REGULAÇÃO**
+<img src="{{ '/images/Voltar.png' | relative_url }}" width="30" alt="Voltar.png" />**MANUTENÇÃO CORRETIVA - MODULO AMBULATORIAL - SOLICITAÇÃO TRAVADA NA FILA DA REGULAÇÃO - FILA DA REGULAÇÃO**
 
 Desenvolver/verificar manutenção corretiva no sistema SISREG, no modulo ambulatorial, na funcionalidade AUTORIZAÇÃO do perfil Regulador/Autorizador.
 
-<img src="/images/Voltar.png" width="30" alt="Voltar.png" />**MANUTENÇÃO EVOLUTIVA - MODULO AMBULATORIAL - VALIDADOR (CAPTCHA) NA CONFIRMAÇÃO DE EXECUÇÃO AGENDA**
+<img src="{{ '/images/Voltar.png' | relative_url }}" width="30" alt="Voltar.png" />**MANUTENÇÃO EVOLUTIVA - MODULO AMBULATORIAL - VALIDADOR (CAPTCHA) NA CONFIRMAÇÃO DE EXECUÇÃO AGENDA**
 
 Desenvolver manutenção evolutiva no sistema SISREG nos módulos permitindo na tela de confirmação da agenda pelo perfil executante apresente uma validação (CAPTCHA) para confirmar a presença dos pacientes. Evitar uso de "ROBOS" para confirmação de consultas
 
 
 ## ATUALIZAÇÃO SISREG III – 20 de janeiro de 2018
-<img src="/images/Voltar.png" width="30" alt="Voltar.png" />**MANUTENÇÃO CORRETIVA - MODULO AMBULATORIAL- AGENDAMENTO DE FILA DE ESPERA - NÃO ESTA AGENDANDO**
+<img src="{{ '/images/Voltar.png' | relative_url }}" width="30" alt="Voltar.png" />**MANUTENÇÃO CORRETIVA - MODULO AMBULATORIAL- AGENDAMENTO DE FILA DE ESPERA - NÃO ESTA AGENDANDO**
 
 FUNÇÃO: SOLICITAÇÃO / FILA DE ESPERA AUTOMATICA
 
