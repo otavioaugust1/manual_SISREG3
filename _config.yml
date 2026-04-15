@@ -1,0 +1,68 @@
+# Título da página
+title: "Manual SISREG - Sistema de Regulação do Ministério da Saúde"
+
+# Descrição da página
+description: "Guia de uso do sistema SISREG - Sistema de Regulação do Ministério da Saúde"
+theme: just-the-docs
+
+# o subcaminho de seu site, por exemplo /blog\
+#baseurl: "/manual-sisreg" 
+
+# Opcional: links auxiliares no cabeçalho
+aux_links_new_tab: true
+
+permalink: pretty
+
+# Callouts CORES para destacar 
+callouts:
+  atencao:
+    title: Atenção
+    color: red
+  atualizacao:
+    title: Atualização
+    color: blue
+  nota:
+    title: Nota
+    color: grey-dk
+  dica:
+    title: Dica
+    color: green
+  cuidado:
+    title: Cuidado
+    color: yellow
+  novidade:
+    title: Novidade
+    color: purple
+
+
+# Colocar o termo em portugues
+search_placeholder: "Buscar no Manual SISREG"
+
+# Para ativar ou desativar âncoras título
+heading_anchors: true
+
+# Texto que aparece na parte inferior do conteúdo principal de cada página
+footer_content: "2025 Ministério da Saúde. Todos os direitos reservados. É permitida a reprodução parcial ou total desta obra, desde que citada a fonte e que não seja para venda ou qualquer fim comercial. Venda proibida. Distribuição gratuita. A responsabilidade pelos direitos autorais de textos e imagens desta obra é da área técnica. A coleção institucional do Ministério da Saúde pode ser acessada na íntegra na Biblioteca Virtual em Saúde do Ministério da Saúde: http://www.saude.gov.br/bvs."
+last_edit_timestamp: true # show or hide edit time - page must have `last_modified_date` defined in the frontmatter
+last_edit_time_format: "%d/%m/%Y" # uses ruby's time format: https://ruby-doc.org/stdlib-2.7.0/libdoc/time/rdoc/Time.html
+date_format: "%d/%m/%Y"
+
+# Back to top link
+back_to_top: true
+back_to_top_text: "Voltar ao topo"
+
+# Logomarca no canto superior esquerdo (desabilitar se não houver arquivo)
+logo: "/images/Logo-sisreg.png"
+
+# Habilita a busca na página
+search_enabled: true
+
+# Links auxiliares para a navegação superior direita
+aux_links:
+  "GitHub":
+    - "https://github.com/otavioaugust1/manual-SISREG3"
+  "Suporte SISREG":
+    - "https://webatendimento.saude.gov.br/faq/sisreg"
+
+ga_tracking: G-ZF3E9YDTZL
+ga_tracking_anonymize_ip: true
