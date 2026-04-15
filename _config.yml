@@ -6,7 +6,7 @@ description: "Guia de uso do sistema SISREG - Sistema de Regulação do Ministé
 theme: just-the-docs
 
 # o subcaminho de seu site, por exemplo /blog\
-#baseurl: "/manual-sisreg" 
+#baseurl: "/manual_sisreg" 
 
 # Opcional: links auxiliares no cabeçalho
 aux_links_new_tab: true
