@@ -60,7 +60,7 @@ search_enabled: true
 # Links auxiliares para a navegação superior direita
 aux_links:
   "GitHub":
-    - "https://github.com/otavioaugust1/manual-SISREG3"
+    - "https://github.com/otavioaugust1/manual_SISREG3"
   "Suporte SISREG":
     - "https://webatendimento.saude.gov.br/faq/sisreg"
 
