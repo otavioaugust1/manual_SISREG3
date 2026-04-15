@@ -5,9 +5,7 @@ nav_order: 1
 parent: "Videofonista"
 ---
 
-A função desse perfil é registrar a solicitação em nome de uma unidade sem conectividade direta com o SISREG, momentaneamente, ou que não disponha de acesso à web. 
-
-CONHECENDO OS MENUS
+**CONHECENDO OS MENUS**
 
 ![MENU VIDEOFONISTA.png]({{ '/images/MENU%20VIDEOFONISTA.png' | relative_url }})
 

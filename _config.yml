@@ -5,6 +5,12 @@ title: "Manual SISREG - Sistema de Regulação do Ministério da Saúde"
 description: "Guia de uso do sistema SISREG - Sistema de Regulação do Ministério da Saúde"
 theme: just-the-docs
 
+# Configuração do tema Just the Docs
+just_the_docs:
+  collections:
+    docs:
+      nav_exclude: false
+
 # o subcaminho de seu site, por exemplo /blog\
 #baseurl: "/manual_sisreg" 
 
